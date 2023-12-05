@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/mariusflores)
 
 
-
 ## Languages, Frameworks, and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=maven,react,spring,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,react,spring,nodejs&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,aws,azure,mysql,docker,figma,git,postman,selenium,vite,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,docker,git,postman,selenium,unity,mysql,mongodb)](https://skillicons.dev)
+
 
 
 
