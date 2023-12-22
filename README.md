@@ -33,5 +33,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=idea,docker,git,postman,selenium,unity,mysql,mongodb)](https://skillicons.dev)
 
 
+## Repositories
 
+
+- [Cloud DevOps Exam](https://github.com/Mariusflores/PGR301-EKSAMEN)
+- [Currency Converter](https://github.com/Mariusflores/Currency-Converter)
 
