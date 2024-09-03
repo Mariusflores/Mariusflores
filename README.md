@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm an aspiring Full-Stack Developer, currently on the third year of my bachelors degree at Kristiania, Oslo.
+I'm an aspiring Full-Stack Developer
 <!--
 **Mariusflores/Mariusflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
