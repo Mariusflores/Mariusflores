@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 -->
 ## Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marius-flores-dalseng-1a5828164/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/mariusflores)
 
 
 ## Languages, Frameworks, and Tools
