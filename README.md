@@ -20,15 +20,6 @@ A full-stack web app for tracking job applications with a sortable dashboard and
 A Kotlin-based educational app for improving mental arithmetic with configurable difficulty and session analytics.  
 **Tech:** Kotlin, Jetpack Compose, MVVM
 
-### 🔹 **Social Media Platform (Fullstack)**
-Authentication with Google/GitHub OAuth, interactive posts, reactions, and persistent sessions.  
-**Tech:** React, Node.js, Passport.js, MongoDB, Vite, Heroku
-
-
-### 🔹 **Currency Converter**
-Fullstack application with real-time exchange rates.  
-**Tech:** React, Spring Boot, Bootstrap
-
 ### 🔹 E-commerce Ecosystem — Distributed Microservices Platform
 A microservices-based e-commerce system built with Spring Boot and designed to demonstrate real-world distributed architecture patterns.
 
@@ -43,6 +34,15 @@ Features include event-driven workflows, service discovery, API gateway routing,
 - RabbitMQ for asynchronous communication between services
 - JWT authentication and role-based access control
 - Realistic payment simulation (delays + failure modes)
+
+### 🔹 **Social Media Platform (Fullstack)**
+Authentication with Google/GitHub OAuth, interactive posts, reactions, and persistent sessions.  
+**Tech:** React, Node.js, Passport.js, MongoDB, Vite, Heroku
+
+
+### 🔹 **Currency Converter**
+Fullstack application with real-time exchange rates.  
+**Tech:** React, Spring Boot, Bootstrap
 
 
 
