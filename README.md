@@ -51,10 +51,10 @@ Features include event-driven workflows, service discovery, API gateway routing,
 ## 🧰 Tech Stack
 
 ### **Languages**
-Java • Kotlin • Python • JavaScript • TypeScript • MATLAB
+Java • Kotlin • Python • JavaScript • TypeScript
 
 ### **Frameworks & Libraries**
-React • Spring Boot • Node.js • Jetpack Compose • Maven • JUnit • Passport.js • Vitest
+React • Spring Boot • Node.js • Jetpack Compose • Maven • JUnit • Passport.js • Vitest • SciPy • Seaborn
 
 ### **Cloud & DevOps**
 AWS • Azure • Docker • Terraform • Consul • CI/CD • GitHub Actions • Heroku
