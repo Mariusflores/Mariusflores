@@ -5,8 +5,7 @@ I enjoy solving real problems with modern technologies and continuously improvin
 
 🎓 **Bachelor in Information Technology & Programming (2024)**  
 🎓 **Master’s in Informatics: Programming & System Architecture (2025–)**  
-💼 Experience from teaching programming and building full-stack applications through academic, personal, and collaborative projects. Served as Scrum Master during a bachelor group project, practicing agile workflows in a team setting.
-
+💼 Experience teaching programming and building full-stack applications through academic, personal, and collaborative projects. Served as Scrum Master during a bachelor project, practicing agile workflows in a team setting.
 
 ---
 
@@ -16,35 +15,31 @@ I enjoy solving real problems with modern technologies and continuously improvin
 A full-stack web app for tracking job applications with a sortable dashboard and drag-and-drop pipeline.  
 **Tech:** React, TypeScript, Tailwind, DnD Kit, REST API
 
+### 🔹 **E-commerce Ecosystem — Distributed Microservices Platform**
+A microservices-based e-commerce system built with Spring Boot and designed to demonstrate real-world distributed architecture patterns.
+
+Includes event-driven workflows, service discovery, API gateway routing, asynchronous messaging, and resilient payment simulation.
+
+**Tech:** Spring Boot 3, Java 21, RabbitMQ, Consul, MySQL, Maven, Docker Compose
+
+**Highlights:**  
+- Event-driven workflow (Order → Payment → Inventory → Status Update)  
+- API Gateway for unified routing  
+- Consul for service discovery & health checks  
+- RabbitMQ for async messaging  
+- JWT authentication & RBAC  
+
 ### 🔹 **MentalMath — Android App**
 A Kotlin-based educational app for improving mental arithmetic with configurable difficulty and session analytics.  
 **Tech:** Kotlin, Jetpack Compose, MVVM
-
-### 🔹 E-commerce Ecosystem — Distributed Microservices Platform
-A microservices-based e-commerce system built with Spring Boot and designed to demonstrate real-world distributed architecture patterns.
-
-Features include event-driven workflows, service discovery, API gateway routing, asynchronous messaging, payment simulation, and multi-service orchestration.
-
-**Tech:** Spring Boot 3, Java 21, RabbitMQ (event-driven), MySQL, Consul (service discovery), Maven, Docker Compose
-
-**Highlights:**
-- Event-driven order workflow (Order → Payment → Inventory → Status Update)
-- API Gateway for unified routing and service abstraction
-- Consul for service discovery + health checks
-- RabbitMQ for asynchronous communication between services
-- JWT authentication and role-based access control
-- Realistic payment simulation (delays + failure modes)
 
 ### 🔹 **Social Media Platform (Fullstack)**
 Authentication with Google/GitHub OAuth, interactive posts, reactions, and persistent sessions.  
 **Tech:** React, Node.js, Passport.js, MongoDB, Vite, Heroku
 
-
 ### 🔹 **Currency Converter**
 Fullstack application with real-time exchange rates.  
 **Tech:** React, Spring Boot, Bootstrap
-
-
 
 ---
 
@@ -54,9 +49,13 @@ Fullstack application with real-time exchange rates.
 Java • Kotlin • Python • JavaScript • TypeScript
 
 ### **Frameworks & Libraries**
-React • Spring Boot • Node.js • Jetpack Compose • Maven • JUnit • Passport.js • Vitest
+React • Spring Boot • Node.js  
+Jetpack Compose • Maven • JUnit  
+Passport.js • Vitest
+
 ### **Cloud & DevOps**
-AWS • Azure • Docker • Terraform • Consul • CI/CD • GitHub Actions • Heroku
+AWS • Azure • Docker • Terraform • Consul  
+CI/CD • GitHub Actions • Heroku
 
 ### **Databases**
 MySQL • PostgreSQL • MongoDB • Firebase
@@ -66,12 +65,11 @@ MySQL • PostgreSQL • MongoDB • Firebase
 ## 🌍 Languages
 🇳🇴 Norwegian — Native  
 🇺🇸 English — Fluent  
-🇪🇸 Spanish — Very good
+🇪🇸 Spanish — Very good  
 
 ---
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marius-flores-dalseng-1a5828164)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mariusflores)
-
 
