@@ -54,8 +54,7 @@ Fullstack application with real-time exchange rates.
 Java • Kotlin • Python • JavaScript • TypeScript
 
 ### **Frameworks & Libraries**
-React • Spring Boot • Node.js • Jetpack Compose • Maven • JUnit • Passport.js • Vitest • SciPy • Seaborn
-
+React • Spring Boot • Node.js • Jetpack Compose • Maven • JUnit • Passport.js • Vitest
 ### **Cloud & DevOps**
 AWS • Azure • Docker • Terraform • Consul • CI/CD • GitHub Actions • Heroku
 
