@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marius Flores Dalseng
 
-I'm a full-stack developer with a passion for building clean, intuitive, and scalable applications.  
+I'm a full-stack developer with a strong backend focus, passionate about building clean, intuitive, and scalable applications.
 I enjoy solving real problems with modern technologies and continuously improving my skills through hands-on projects.
 
 🎓 **Bachelor in Information Technology & Programming (2024)**  
