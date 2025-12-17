@@ -15,41 +15,33 @@ I enjoy solving real problems with modern technologies and continuously improvin
 👉 https://github.com/mariusflores/job-tracker
 
 A full-stack web app for tracking job applications with a sortable dashboard and drag-and-drop pipeline.  
-**Tech:** React, TypeScript, Tailwind, DnD Kit, REST API
+**Stack:** React, TypeScript, Tailwind, DnD Kit, REST API
 
 ### 🔹 **E-commerce Ecosystem — Distributed Microservices Platform**
 👉 https://github.com/mariusflores/e-commerce-ecosystem
 
-A microservices-based e-commerce system built with Spring Boot and designed to demonstrate real-world distributed architecture patterns.
+A technical exploration of distributed systems and microservice architecture.
 
-Includes event-driven workflows, service discovery, API gateway routing, asynchronous messaging, and resilient payment simulation.
+**Stack:** Spring Boot 3, Java 21, RabbitMQ, Consul, MySQL, Maven, Docker Compose
 
-**Tech:** Spring Boot 3, Java 21, RabbitMQ, Consul, MySQL, Maven, Docker Compose
-
-**Highlights:**  
-- Event-driven workflow (Order → Payment → Inventory → Status Update)  
-- API Gateway for unified routing  
-- Consul for service discovery & health checks  
-- RabbitMQ for async messaging  
-- JWT authentication & RBAC  
 
 ### 🔹 **MentalMath — Android App**
 👉 https://github.com/mariusflores/mentalmath
 
 A Kotlin-based educational app for improving mental arithmetic with configurable difficulty and session analytics.  
-**Tech:** Kotlin, Jetpack Compose, MVVM
+**Stack:** Kotlin, Jetpack Compose, MVVM
 
 ### 🔹 **Social Media Platform (Fullstack)**
 👉 https://github.com/mariusflores/pg6301-reexam-mariusflores
 
 Authentication with Google/GitHub OAuth, interactive posts, reactions, and persistent sessions.  
-**Tech:** React, Node.js, Passport.js, MongoDB, Vite, Heroku
+**TStack:** React, Node.js, Passport.js, MongoDB, Vite, Heroku
 
 ### 🔹 **Currency Converter**
 👉 https://github.com/mariusflores/currency-converter
 
 Fullstack application with real-time exchange rates.  
-**Tech:** React, Spring Boot, Bootstrap
+**Stack:** React, Spring Boot, Bootstrap
 
 ---
 
