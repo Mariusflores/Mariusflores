@@ -11,7 +11,7 @@ I enjoy solving real problems with modern technologies and continuously improvin
 
 ## 🚀 Featured Projects
 
-### 🔹 **Job Application Tracker (WIP)**
+### 🔹 **Job Application Tracker (In progress)**
 👉 https://github.com/mariusflores/job-tracker
 
 A full-stack web app for tracking job applications with a sortable dashboard and drag-and-drop pipeline.  
