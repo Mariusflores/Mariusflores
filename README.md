@@ -14,6 +14,7 @@ I enjoy solving real problems with modern technologies and continuously improvin
 ### 🔹 **baby-redis — Redis-inspired Key-Value Store (In progress)**
 👉 Server: https://github.com/mariusflores/baby-redis  
 👉 Client: https://github.com/mariusflores/baby-redis-client
+👉 CLI: https://github.com/Mariusflores/baby-redis-cli
 
 A from-scratch implementation of a Redis-like in-memory key-value store, 
 with a separate Java client library. The server includes a built-in CLI 
